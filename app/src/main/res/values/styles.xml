@@ -2,8 +2,15 @@
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Santhosh.Theme.ToolBar" parent="Theme.AppCompat">
+        <item name="android:background">#3d4473</item>
+    </style>
+
+    <style name="Santhosh.Theme.Menu" parent="Theme.AppCompat.Light">
+        <item name="android:background">#c798a8</item>
     </style>
 
 </resources>
